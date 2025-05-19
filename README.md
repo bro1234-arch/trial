@@ -15,4 +15,25 @@ It needs to be fixed to ensure program efficiency and remove compilation errors.
 
 Fixing this will allow the program to compile and function as intended.
 
-title Undefined variable 'num3' used ( in num.c file )   
+title Undefined variable 'num3' used ( in num.c file )  
+
+---------------------------------------------------------------------------------
+
+for issue 
+
+modified variables and logic of calculation
+1.What is the type of the Pull request:
+
+/kind Enhancement
+
+2.what does this Pull request do :
+It will calculate the sum of variables 'a' and 'b' in the code and assign the values to "sum"
+
+Which issue will it fix:
+Invalid Datatype and wrong calculation logic
+
+4..Test report added:
+/kind not tested
+
+5.test report:
+No test report link since the code is not tested.
